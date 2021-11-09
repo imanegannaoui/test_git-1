@@ -1,1 +1,22 @@
-Asmaa Talha
+git config => Git Configuration allows users to integrate with an external version control using Git.
+
+1/ Créez un nouveau répertoire sur votre compte GitHUb
+
+3/ git clone => Clone le repo sur Desktop
+
+4/ git remote -v => git fetch , git push
+
+5/  le résultat de cette commande:
+
+	git fetch => Download objects and refs from another repository;
+	
+	git push => Update remote refs along with associated objects;
+
+7/ git status => afficher les modification
+
+8/ git add . => Add file contents to the index
+
+9/ git commit -m "" => Record changes to the repository
+
+10/ git log => afficher les list de commit
+
