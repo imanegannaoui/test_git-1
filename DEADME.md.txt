@@ -21,3 +21,7 @@ git config => Git Configuration allows users to integrate with an external versi
 10/ git log => afficher les list de commit
 
 11/ ls => afficher les dossier situé dans repo
+
+12/ touch 'nom fille' => créez un nouveau fichier
+
+13/ mkdir 'nom dossier' => créez un nouveau dossier
